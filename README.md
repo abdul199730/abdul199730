@@ -1,4 +1,4 @@
-# Hi, I’m Abdul 👋 (abdul199730)
+# Hi, I’m Abdul Majid
 
 > Building scalable backend systems, clean front-ends, and developer tools. I focus on reliability, performance, and developer experience.
 
